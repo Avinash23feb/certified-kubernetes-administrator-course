@@ -16,7 +16,7 @@ NUM_WORKER_NODES = 2
 
 # Network parameters for NAT mode
 IP_NW = "192.168.56"
-MASTER_IP_START = 11
+MASTER_IP_START = 10
 NODE_IP_START = 20
 
 # Host operating sysem detection
