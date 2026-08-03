@@ -11,6 +11,7 @@ BUILD_MODE = "BRIDGE"
 
 # Define the number of worker nodes
 # If this number is changed, remember to update setup-hosts.sh script with the new hosts IP details in /etc/hosts of each VM.
+NUM_MASTER_NODES = 1
 NUM_WORKER_NODES = 2
 
 # Network parameters for NAT mode
